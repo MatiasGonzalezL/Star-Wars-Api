@@ -1,0 +1,24 @@
+.card{
+    word-wrap: normal;
+    padding:0px;
+    width: 20%;
+    height:30%;
+    margin:5%;
+    margin-bottom:10%;
+    position:relative;
+    display:flex;
+}
+#corazon{
+    color:yellowgreen;
+    border-color:yellowgreen;
+    border-style:groove;
+    display: float;
+    padding:10px;
+    position:absolute;
+    margin-left:35%;
+    opacity:50%;
+}
+#corazon:hover{
+    opacity:100%;
+    cursor:pointer;
+}
